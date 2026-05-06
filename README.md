@@ -2,7 +2,7 @@
 
 Welcome to the official repository of the TQNet paper: "[Temporal Query Network for Efficient Multivariate Time Series Forecasting](https://arxiv.org/pdf/2505.12917)". 
 
-[[Poster|海报]](https://drive.google.com/file/d/1ZFuo8_lDzD104UuzxkHRmchuWUPN2x5F/view?usp=drive_link) - [[Slides|幻灯片]](https://drive.google.com/file/d/1cJVuZ1uLKSkLgbGJA_KZHVnehhlGx64S/view?usp=drive_link) - [[中文解读]](https://zhuanlan.zhihu.com/p/1908842630466471890)
+[[Poster|海报]](https://drive.google.com/file/d/1ZFuo8_lDzD104UuzxkHRmchuWUPN2x5F/view?usp=drive_link) - [[Slides|幻灯片]](https://drive.google.com/file/d/1cJVuZ1uLKSkLgbGJA_KZHVnehhlGx64S/view?usp=drive_link) - [[中文解读]](https://zhuanlan.zhihu.com/p/1908842630466471890) - [[Poster Template|海报模板]](https://docs.google.com/presentation/d/1BGELB0mLvJe48hV9n3-6cI-5D00uFurS/edit?usp=drive_link&ouid=105253536577799950823&rtpof=true&sd=true)
 
 ## Updates
 🚩 **News** (2025.05): TQNet has been accepted to ICML 2025 and the paper and code is currently available.
